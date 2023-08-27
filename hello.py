@@ -1,3 +1,4 @@
-print('Thais'.upper())
-print(60-6)
-print('Hello, World!')
+#!/usr/bin/env python3 
+
+#Este programa imprimi Hello World
+print ('Hello, World!')
