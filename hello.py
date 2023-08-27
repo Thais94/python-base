@@ -1,4 +1,4 @@
-#!/usr/bin/env python3 
+#!/usr/bin/env python 
 
-#Este programa imprimi Hello World
+#Este programa imprimi hello world
 print ('Hello, World!')
